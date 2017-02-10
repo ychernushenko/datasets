@@ -5,7 +5,7 @@ https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs?utm_campaign=R
 https://www.gutenberg.org/  - books  
 
 #papers
-http://www2016.net/proceedings/proceedings/p1373.pdf
+http://www2016.net/proceedings/proceedings/p1373.pdf - Mining User Intentions from Medical Queries  
 
 #links   
 https://www.heise.de/tr/artikel/KI-mit-emotionaler-Intelligenz-3613884.html  
