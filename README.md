@@ -5,8 +5,8 @@ https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs?utm_campaign=R
 https://www.gutenberg.org/  - books  
 https://cloud.google.com/blog/big-data/2016/12/google-bigquery-public-datasets-now-include-stack-overflow-q-a - Stackoverflow data  
 http://commoncrawl.org/ - Internet archive  
-https://www.yelp.com/dataset_challenge - Yelp review dataset  
-
+https://www.yelp.com/dataset_challenge - Yelp review dataset   
+https://github.com/yury-chernushenko/word2vec-api - Word2Vec  
 
 #papers
 http://www2016.net/proceedings/proceedings/p1373.pdf - Mining User Intentions from Medical Queries  
