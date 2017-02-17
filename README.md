@@ -13,4 +13,8 @@ http://www2016.net/proceedings/proceedings/p1373.pdf - Mining User Intentions fr
 
 #links   
 https://www.heise.de/tr/artikel/KI-mit-emotionaler-Intelligenz-3613884.html  
-http://citeomatic.semanticscholar.org/
+http://citeomatic.semanticscholar.org/  
+
+#conferences
+ACL  
+EMNLP  
