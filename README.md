@@ -18,3 +18,7 @@
 #conferences
 * ACL  
 * EMNLP  
+
+
+# libraries  
+* https://github.com/facebookresearch/fastText - embeddings
