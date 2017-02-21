@@ -7,6 +7,8 @@
 * http://commoncrawl.org/ - Internet archive, http://webdatacommons.org/  
 * https://www.yelp.com/dataset_challenge - Yelp review dataset   
 * https://github.com/yury-chernushenko/word2vec-api - Word2Vec  
+* http://www.msmarco.org/ - Q/A on 5W1H 
+* https://rajpurkar.github.io/SQuAD-explorer/ - Q/A
 
 #papers
 * http://www2016.net/proceedings/proceedings/p1373.pdf - Mining User Intentions from Medical Queries  
