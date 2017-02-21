@@ -24,3 +24,6 @@
 
 # libraries  
 * https://github.com/facebookresearch/fastText - embeddings
+
+# implementations
+* http://alias-i.com/lingpipe/demos/tutorial/cluster/read-me.html
