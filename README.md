@@ -9,6 +9,7 @@
 * https://github.com/yury-chernushenko/word2vec-api - Word2Vec  
 * http://www.msmarco.org/ - Q/A on 5W1H 
 * https://rajpurkar.github.io/SQuAD-explorer/ - Q/A
+* https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.wdqtofqpx - Different datasets
 
 #papers
 * http://www2016.net/proceedings/proceedings/p1373.pdf - Mining User Intentions from Medical Queries  
