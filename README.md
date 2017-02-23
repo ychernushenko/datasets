@@ -11,16 +11,7 @@
 * https://rajpurkar.github.io/SQuAD-explorer/ - Q/A
 * https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.wdqtofqpx - Different datasets
 
-# Datasets for Natural Language Processing
-This is a list of datasets/corpora for NLP tasks, in reverse chronological order.
-Suggestions and pull requests are welcome. The goal is to make this a collaborative effort to maintain an updated list of quality datasets.
-
-# Areas
-  * [Question Answering](#question-answering)
-  * [Dialogue Systems](#dialogue-systems)
-  * [Goal-Oriented Dialogue Systems](#goal-oriented-dialogue-systems)
-
-## Question Answering
+### Question Answering
   * **(MS MARCO)** MS MARCO: A Human Generated MAchine Reading COmprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09268) [[data]](http://www.msmarco.org/)
   * **(NewsQA)** NewsQA: A Machine Comprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09830) [[data]](https://github.com/Maluuba/newsqa)
   * **(SQuAD)** SQuAD: 100,000+ Questions for Machine Comprehension of Text, 2016 [[paper]](http://arxiv.org/abs/1606.05250) [[data]](http://stanford-qa.com)
